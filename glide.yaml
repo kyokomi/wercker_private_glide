@@ -1,0 +1,9 @@
+package: github.com/kyokomi/wercker_private_glide
+import:
+- package: github.com/kyokomi/amber_api
+  repo:    git@github.com:kyokomi/amber_api.git
+  vcs:     git
+  subpackages:
+  - version
+
+

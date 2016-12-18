@@ -1,0 +1,10 @@
+hash: 831e3348b79b1088665fc93e3e5d37e4e986cbcb3c020ee8627a69c1cf3154b9
+updated: 2016-12-18T14:42:57.027140428+09:00
+imports:
+- name: github.com/kyokomi/amber_api
+  version: c5be4c3d1849f3052a7906608378d658993bfaf7
+  repo: git@github.com:kyokomi/amber_api.git
+  vcs: git
+  subpackages:
+  - version
+testImports: []
